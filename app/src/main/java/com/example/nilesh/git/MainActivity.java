@@ -98,4 +98,8 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+    private  void name(){
+      int  i=0;
+        i = i + 1;
+    }
 }
